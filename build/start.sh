@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# -- /usr/local/bin/start.sh
+# ----- /usr/local/bin/start.sh
 
 ln -sf /usr/share/zoneinfo/Europe/Zurich /etc/localtime
 echo "Europe/Zurich" | tee /etc/timezone
