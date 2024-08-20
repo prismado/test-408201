@@ -1,4 +1,4 @@
-FROM mrs:deb12-407241-7
+FROM debian-407231-3:latest
 # FROM debian:12
 
 # Installiere ...

@@ -1,0 +1,13 @@
+
+ == Docker Container ==
+
+ Con-3 | Debian 12.6
+
+ https://con3.rdir.ch/phpmyadmix/
+
+ --
+ To Do:
+
+ apt-get install phpmyadmin
+ mysql_secure_installation
+ 
